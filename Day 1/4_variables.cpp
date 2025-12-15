@@ -17,6 +17,7 @@ int main(){
 }
 
 //Naming Convections 
-// 1. Should start with a "_" or a letter
+// 1. Should start with a "_" or a "letter"
 // 2. Can only contain uppercase, lowercase, digits from 0 to 9 and underscore.
+
 // 3. Must not be a keyword.
